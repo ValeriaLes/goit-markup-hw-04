@@ -402,6 +402,10 @@ img {
   margin-right: 120px;
 }
 
+.footer-icon {
+  fill: var(--light-mode-cloud);
+}
+
 /* PORTFOLIO - SECTION */
 
 .portfolio-section {
