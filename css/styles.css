@@ -185,6 +185,8 @@ img {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  max-width: 1440px;
+  margin: 0 auto;
 }
 
 .hero-content {
@@ -219,7 +221,7 @@ img {
 
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
